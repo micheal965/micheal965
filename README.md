@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C# and .NET**
+- 💬 Ask me about **Ask me about Back End (.Net Technologies) ,Front End (Angular)**
 
 - 📫 How to reach me **michealghobriall@gmail.com**
 
