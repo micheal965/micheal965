@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33b3ziz&label=Profile%20views&color=0e75b6&style=flat" alt="Micheal" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Front End (Angular)**
 
-- 💬 Ask me about **Ask me about Back End (.Net Technologies) ,Front End (Angular)**
+- 💬 Ask me about **Ask me about Back End (.Net Technologies) **
 
 - 📫 How to reach me **michealghobriall@gmail.com**
 
