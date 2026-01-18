@@ -33,7 +33,7 @@
 
 ## 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-michealghobriall%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:michealghobriall@gmail.com)
+[![Email](https://img.shields.io/badge/Email-michealghobriall%40gmail.com-purple?style=for-the-badge&logo=gmail)](mailto:michealghobriall@gmail.com)
 
 ---
 
