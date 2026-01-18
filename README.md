@@ -80,5 +80,5 @@
 ---
 
 <p align="center" style="font-size:14px;">
-  I’m always open to advice, feedback, and opportunities that help me grow as a developer 🚀
+  I’m always open to advice, feedback, and opportunities that help me grow as a Software Engineer 🚀
 </p>
