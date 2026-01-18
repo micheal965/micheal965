@@ -1,49 +1,77 @@
-<h1 align="center">Hi 👋, I'm Micheal Ghobrial</h1>
-<h3 align="center">A passionate .NET developer from Egypt</h3>
+<h1 align="center">
+  Hi there, I'm Micheal Ghobrial 👋
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=33b3ziz&label=Profile%20views&color=0e75b6&style=flat" alt="Micheal" /> </p>
+<h3 align="center">
+  A passionate Software Developer who enjoys learning something new every day
+</h3>
 
-- 🌱 I’m currently learning **Front End (Angular)**
-
-- 💬 Ask me about **Ask me about Back End (.Net Technologies) **
-
-- 📫 How to reach me **michealghobriall@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/micheal-ghobrial/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdelaziz-1a7526242" height="30" width="40" /></a>
-<a href="https://www.facebook.com/micheal.magdy.1428" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mando325" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=6000&pause=1500&color=4F46E5&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(.NET+%26+Angular);Backend+&+Frontend+Engineer;Clean+Code+%7C+Design+Patterns+%7C+System+Design;Always+Learning+%F0%9F%9A%80"
+      alt="Typing SVG" />
+  </a>
 </p>
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micheal965&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img align="right" width="300" alt="coding"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+![Profile views](https://komarev.com/ghpvc/?username=micheal965&label=Profile%20Views&color=4F46E5&style=flat)
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working as a **Full-Stack Developer( .NET & Angular )** with a strong focus on backend development
+- 🌱 Continuously improving my knowledge in **Angular, TypeScript, RxJS, and scalable frontend architectures**
+- 🏗️ Skilled in developing robust, scalable, and maintainable web applications
+- 💬 Ask me about **C#, ASP.NET Core, Web APIs, SQL Server, Angular, and Backend Best Practices**
+
+
+---
+
+## 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-michealghobriall%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:michealghobriall@gmail.com)
+
+---
+
+## ✨ Hobbies & Interests
+
+<div>
+  <img src="https://img.shields.io/badge/Problem%20Solving-🧩-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-📘-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring%20Technologies-💻-lightyellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sharing%20Knowledge-🤝-skyblue?style=for-the-badge" />
 </div>
 
+---
 
-###
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michealghobrial)
+
+---
+
+## 🧰 Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+---
+
+<p align="center" style="font-size:14px;">
+  I’m always open to advice, feedback, and opportunities that help me grow as a developer 🚀
+</p>
