@@ -38,8 +38,6 @@
 
 ---
 
-## ✨ Hobbies & Interests
-
 ## 🧰 Tech Stack
 
 ### Frontend
