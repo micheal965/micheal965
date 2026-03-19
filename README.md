@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<img align="right" width="300" alt="coding"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ![Profile views](https://komarev.com/ghpvc/?username=micheal965&label=Profile%20Views&color=4F46E5&style=flat)
 
